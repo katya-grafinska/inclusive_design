@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Literal';
+    src: url('fonts/Literal/literal_-_bold_personal_use.eot');
+    src: url('fonts/Literal/literal_-_bold_personal_use.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Literal/literal_-_bold_personal_use.woff2') format('woff2'),
+         url('fonts/Literal/literal_-_bold_personal_use.woff') format('woff'),
+         url('fonts/Literal/literal_-_bold_personal_use.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Literal';
+    src: url('fonts/Literal/literal_-_light_personal_use.eot');
+    src: url('fonts/Literal/literal_-_light_personal_use.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Literal/literal_-_light_personal_use.woff2') format('woff2'),
+         url('fonts/Literal/literal_-_light_personal_use.woff') format('woff'),
+         url('fonts/Literal/literal_-_light_personal_use.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Literal';
+    src: url('fonts/Literal/literal_-_regular_personal_use.eot');
+    src: url('fonts/Literal/literal_-_regular_personal_use.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Literal/literal_-_regular_personal_use.woff2') format('woff2'),
+         url('fonts/Literal/literal_-_regular_personal_use.woff') format('woff'),
+         url('fonts/Literal/literal_-_regular_personal_use.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
